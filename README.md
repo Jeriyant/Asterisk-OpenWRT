@@ -1,4 +1,4 @@
-# BreadcrumbsAsterisk-OpenWRT
+# Asterisk-OpenWRT
 
 Dengan Skrip Ini Anda Dapat Membuat Server SIP Anda sendiri di Router openwrt Anda tanpa Server fisik atau Cloud! 
 
